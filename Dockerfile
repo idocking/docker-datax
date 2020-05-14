@@ -1,4 +1,4 @@
-FROM beginor/ubuntu-china:16.04
+FROM ubuntu:18.04
 
 LABEL maintainer="beginor <beginor@qq.com>"
 
